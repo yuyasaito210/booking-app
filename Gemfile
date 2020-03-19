@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-gem 'bootstrap-sass', '~>3.3.7'
+gem 'bootstrap-sass', '~>3.4.1'
 gem "bootstrap-table-rails", "~>1.11.1.1"
 gem 'bootstrap_form', '~>2.6.0'
 gem 'autoprefixer-rails', '~>6.7.7.1'
